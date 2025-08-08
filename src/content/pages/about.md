@@ -1,12 +1,12 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: PENJELASAN LEBIH LANJUT
 ---
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+Nama saya adalah Maalika Suroso Shidiq Alunis atau biasa disebut Malika, Saya adalah anak kedua dari 3 saudara perempuan saya, Saya lahir di Jakarta pada tanggal 15 Maret 2008
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+saya memiliki beberapa hobi dan juga bakat, dari bermain sepak bola, berenang, hingga bermain komputer
 
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
 

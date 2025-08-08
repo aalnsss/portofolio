@@ -107,13 +107,22 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "instagram" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Instagram" rel="noopener noreferrer">
-            <RiInstagramFill alt="Instagram icon" />
-          </a>
-        ) : (
-          ""
-        )}
+      
+         {icons.icon === "instagram" ? (
+  <a
+    href={icons.url}
+    target="_blank"
+    aria-label="link to Instagram"
+    rel="noopener noreferrer"
+    style={{ display: "flex", alignItems: "center", gap: "6px", textDecoration: "none", color: "inherit" }}
+  >
+    <RiInstagramFill alt="Instagram icon" />
+    <span style={{ fontSize: "15px" }}>My instagram</span>
+  </a>
+) : (
+  ""
+)}
+
         {icons.icon === "rss" ? (
           <a href={icons.url} target="_blank" aria-label="link to RSS" rel="noopener noreferrer">
             <RiRssFill alt="RSS icon" />
