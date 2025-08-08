@@ -14,5 +14,5 @@ Saya tertarik untuk mengambil jurusan teknik komputer dan jaringan dikarenakan b
 
 Selama saya belajar di dalam dunia jaringan, saya sudah memahami beberapa materi seperti membangun jaringan dan memahami bagaimana jaringan bekerja, saya juga praktik cara membuat jaringan menggunakan router MikroTik.
 
-Ketika saya kelas 3 smk, Saya melakukan Praktik kerja lapangan atau biasa disebut PKL, saya ditempatkan di ARETA INFORMATICS COLLEGE, disini saya mempelajari berbagai macam tentang dunia teknologi, dari mendalami dasar mikrotik, desain grafis, dan cara melakukan coding untuk membangun website
+Ketika saya kelas 3 smk, Saya melakukan Praktik kerja lapangan atau biasa disebut PKL, saya ditempatkan di ARETA INFORMATICS COLLEGE, disini saya mempelajari berbagai macam tentang dunia teknologi, dari mendalami dasar mikrotik, desain grafis, dan cara melakukan coding untuk membangun website.
 
