@@ -1,9 +1,9 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: ADA YANG INGIN DITANYAKAN LEBIH LANJUT?
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+KALIAN BISA MENGHUBUNGIKU LEWAT LINK NGL
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Jangan lupa untuk mengikutinya terlebih dahulu

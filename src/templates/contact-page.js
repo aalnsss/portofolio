@@ -51,27 +51,11 @@ const Contact = ({ data }) => {
           <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>
-              Name
+              Nama 
               <input type="text" name="name" required />
             </label>
           </p>
-          <p>
-            <label>
-              Email
-              <input type="email" name="email" required />
-            </label>
-          </p>
-          <p>
-            <label>
-              Subject
-              <input type="text" name="subject" required />
-            </label>
-          </p>
-          <p>
-            <label>
-              Message<textarea name="message" required></textarea>
-            </label>
-          </p>
+          
           <p className="text-align-right">
             <button
               className="button"

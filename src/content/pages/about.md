@@ -6,7 +6,7 @@ title: PENJELASAN LEBIH LANJUT
 
 Nama saya adalah Maalika Suroso Shidiq Alunis atau biasa disebut Malika, Saya adalah anak kedua dari empat bersaudara, Saya lahir di Jakarta pada tanggal 15 Maret 2008
 
-saya memiliki beberapa hobi dan juga bakat, dari bermain sepak bola, berenang, hingga bermain komputer
+saya memiliki beberapa hobi dan juga bakat, dari bermain sepak bola, berenang, hingga bermain komputer, selain itu, saya juga menekuni dunia atletik.
 
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
 
