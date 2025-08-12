@@ -14,10 +14,6 @@ const MenuItems = [
     path: "/about",
     title: "About",
   },
-  {
-    path: "/blog",
-    title: "Blog",
-  },
 ]
 
 const ListLink = props => (
