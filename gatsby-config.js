@@ -98,7 +98,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundat`,
+        name: `Foundation`,
         short_name: `Foundation`,
         start_url: `/`,
         background_color: `#f7f0eb`,
